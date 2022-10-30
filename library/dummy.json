@@ -161,7 +161,8 @@
                 "options": {
                     "singleplayer": "",
                     "multiplayer": "",
-                    "localMultiplayer": ""
+                    "localMultiplayer": "",
+                    "web3": ""
                 }
             },
             "requirements": {
@@ -265,7 +266,8 @@
                 "options": {
                     "singleplayer": "",
                     "multiplayer": "",
-                    "localMultiplayer": ""
+                    "localMultiplayer": "",
+                    "web3": ""
                 }
             },
             "requirements": {
@@ -369,7 +371,8 @@
                 "options": {
                     "singleplayer": "",
                     "multiplayer": "",
-                    "localMultiplayer": ""
+                    "localMultiplayer": "",
+                    "web3": ""
                 }
             },
             "requirements": {
@@ -473,7 +476,8 @@
                 "options": {
                     "singleplayer": "",
                     "multiplayer": "",
-                    "localMultiplayer": ""
+                    "localMultiplayer": "",
+                    "web3": ""
                 }
             },
             "requirements": {
@@ -577,7 +581,8 @@
                 "options": {
                     "singleplayer": "",
                     "multiplayer": "",
-                    "localMultiplayer": ""
+                    "localMultiplayer": "",
+                    "web3": ""
                 }
             },
             "requirements": {
@@ -681,7 +686,8 @@
                 "options": {
                     "singleplayer": "",
                     "multiplayer": "",
-                    "localMultiplayer": ""
+                    "localMultiplayer": "",
+                    "web3": ""
                 }
             },
             "requirements": {
