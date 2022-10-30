@@ -108,7 +108,7 @@
             "id": 2,
             "packageName": "Minetest",
             "meta": {
-                "title": "",
+                "title": "Minetest",
                 "shortDescription": "",
                 "longDescription": "",
                 "video": "",
@@ -117,8 +117,8 @@
                     "experimental": "",
                     "review": "",
                     "version": "",
-                    "thumbnail": "",
-                    "priceusd": "",
+                    "thumbnail": "https://resources.tymt.com/media/2/thumb-240x340.png",
+                    "priceusd": "0",
                     "discountedPrice": "",
                     "releaseDate": ""
                 },
@@ -212,7 +212,7 @@
             "id": 3,
             "packageName": "FlightGear",
             "meta": {
-                "title": "",
+                "title": "FlightGear",
                 "shortDescription": "",
                 "longDescription": "",
                 "video": "",
@@ -221,8 +221,8 @@
                     "experimental": "",
                     "review": "",
                     "version": "",
-                    "thumbnail": "",
-                    "priceusd": "",
+                    "thumbnail": "https://resources.tymt.com/media/3/thumb-240x340.png",
+                    "priceusd": "0",
                     "discountedPrice": "",
                     "releaseDate": ""
                 },
