@@ -1,0 +1,795 @@
+{
+    "library": {
+        "1": {
+            "id": 1,
+            "packageName": "district53",
+            "meta": {
+                "title": "District 53",
+                "shortDescription": "District 53 Metaverse on the Solar Blockchain",
+                "longDescription": "District 53 Metaverse on the Solar Blockchain forked from the Minetest code.",
+                "libraryPresence": {
+                    "production": false,
+                    "experimental": false,
+                    "review": true,
+                    "version": "1.0.0",
+                    "thumbnail": "https://sub.domain.com/1/thumb-240x340.png",
+                    "priceusd": "0",
+                    "discountedPrice": "0",
+                    "releaseDate": "2022-10-18T01:11:44.000Z"
+                },
+                "language": {
+                    "english": "true"
+                },
+                "monetary": {
+                    "p2e": "true",
+                    "ingameTransactions": "true"
+                },
+                "genre": {
+                    "action": "false",
+                    "adventure": "true",
+                    "fighting": "false",
+                    "simulator": "false",
+                    "racing": "false",
+                    "metaverse": "true",
+                    "openworld": "true",
+                    "rpg": "false",
+                    "sports": "false",
+                    "strategy": "false",
+                    "survival": "true",
+                    "adult": "false",
+                    "gambling": "false"
+                },
+                "blockchain": {
+                    "none": "false",
+                    "solar": "true",
+                    "bsc": "false",
+                    "eth": "false",
+                    "cosmos": "false",
+                    "avalanche": "false"
+                },
+                "authentication": {
+                    "solarSDK": "true",
+                    "nickname": "false",
+                    "thirdParty": "false",
+                    "clientWallet": "true"
+                },
+                "options": {
+                    "singleplayer": "false",
+                    "multiplayer": "true",
+                    "localMultiplayer": "false"
+                }
+            },
+            "media": {
+                "youtube": "https://youtube.com/video",
+                "1": "https://sub.domain.com/1/1-1920x1080.png",
+                "2": "https://sub.domain.com/1/2-1920x1080.png",
+                "3": "https://sub.domain.com/1/3-1920x1080.png",
+                "4": "https://sub.domain.com/1/4-1920x1080.png",
+                "5": "https://sub.domain.com/1/5-1920x1080.png",
+                "6": "https://sub.domain.com/1/6-1920x1080.png"
+
+            },
+            "requirements": {
+                "processor": "8 CORE",
+                "memory": "8GB",
+                "graphics": "4GB DDR4",
+                "diskspace": "100GB",
+                "arch": "x64",
+                "miscellaneous": ""
+            },
+            "developer": {
+                "developer": "Dokdo UAB",
+                "publisher": "Dokdo UAB",
+                "franchise": "Dokdo UAB",
+                "license": "MIT",
+                "website": "MIT",
+                "privacyPolicy": "https://domain.com/game/privacy-policy",
+                "email": "individual@domain.com",
+                "type": "individual",
+                "miscellaneous": "This game uses original assets from Minetest and is not promoted or endorsed by Minetest.",
+                "donation": ""
+            },
+            "social": {
+                "discord": "Dokdo UAB",
+                "website": "Dokdo UAB",
+                "telegram": "Dokdo UAB",
+                "twitter": "MIT"
+            },
+            "download": {
+                "windows": {
+                    "zip": "https://sub.domain.com/1/windows.zip",
+                    "hash": "1234",
+                    "executable": "Dokdo UAB"
+                },
+                "macos": {
+                    "zip": "https://sub.domain.com/1/mac.zip",
+                    "hash": "1234",
+                    "executable": "district53.app"
+                },
+                "linux": {
+                    "appimage": "https://sub.domain.com/1/linux.appimage",
+                    "hash": "1234"
+                }
+            },
+            "lastUpdated": "2022-10-18T01:11:44.000Z"
+        },
+        "2": {
+            "id": 2,
+            "packageName": "Minetest",
+            "meta": {
+                "title": "",
+                "shortDescription": "",
+                "longDescription": "",
+                "libraryPresence": {
+                    "production": "",
+                    "experimental": "",
+                    "review": "",
+                    "version": "",
+                    "thumbnail": "",
+                    "priceusd": "",
+                    "discountedPrice": "",
+                    "releaseDate": ""
+                },
+                "language": {
+                    "english": ""
+                },
+                "monetary": {
+                    "p2e": "",
+                    "ingameTransactions": ""
+                },
+                "genre": {
+                    "action": "",
+                    "adventure": "",
+                    "fighting": "",
+                    "simulator": "",
+                    "racing": "",
+                    "metaverse": "",
+                    "openworld": "",
+                    "rpg": "",
+                    "sports": "",
+                    "strategy": "",
+                    "survival": "",
+                    "adult": "",
+                    "gambling": ""
+                },
+                "blockchain": {
+                    "none": "",
+                    "solar": "",
+                    "bsc": "",
+                    "eth": "",
+                    "cosmos": "",
+                    "avalanche": ""
+                },
+                "authentication": {
+                    "solarSDK": "",
+                    "nickname": "",
+                    "thirdParty": "",
+                    "clientWallet": ""
+                },
+                "options": {
+                    "singleplayer": "",
+                    "multiplayer": "",
+                    "localMultiplayer": ""
+                }
+            },
+            "media": {
+                "youtube": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+
+            },
+            "requirements": {
+                "processor": "",
+                "memory": "",
+                "graphics": "",
+                "diskspace": "",
+                "arch": "",
+                "miscellaneous": ""
+            },
+            "developer": {
+                "developer": "",
+                "publisher": "",
+                "franchise": "",
+                "license": "",
+                "website": "",
+                "privacyPolicy": "",
+                "email": "",
+                "type": "",
+                "miscellaneous": "",
+                "donation": ""
+            },
+            "social": {
+                "discord": "",
+                "website": "",
+                "telegram": "",
+                "twitter": ""
+            },
+            "download": {
+                "windows": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "macos": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "linux": {
+                    "appimage": "",
+                    "hash": ""
+                }
+            },
+            "lastUpdated": ""
+        },
+        "3": {
+            "id": 3,
+            "packageName": "FlightGear",
+            "meta": {
+                "title": "",
+                "shortDescription": "",
+                "longDescription": "",
+                "libraryPresence": {
+                    "production": "",
+                    "experimental": "",
+                    "review": "",
+                    "version": "",
+                    "thumbnail": "",
+                    "priceusd": "",
+                    "discountedPrice": "",
+                    "releaseDate": ""
+                },
+                "language": {
+                    "english": ""
+                },
+                "monetary": {
+                    "p2e": "",
+                    "ingameTransactions": ""
+                },
+                "genre": {
+                    "action": "",
+                    "adventure": "",
+                    "fighting": "",
+                    "simulator": "",
+                    "racing": "",
+                    "metaverse": "",
+                    "openworld": "",
+                    "rpg": "",
+                    "sports": "",
+                    "strategy": "",
+                    "survival": "",
+                    "adult": "",
+                    "gambling": ""
+                },
+                "blockchain": {
+                    "none": "",
+                    "solar": "",
+                    "bsc": "",
+                    "eth": "",
+                    "cosmos": "",
+                    "avalanche": ""
+                },
+                "authentication": {
+                    "solarSDK": "",
+                    "nickname": "",
+                    "thirdParty": "",
+                    "clientWallet": ""
+                },
+                "options": {
+                    "singleplayer": "",
+                    "multiplayer": "",
+                    "localMultiplayer": ""
+                }
+            },
+            "media": {
+                "youtube": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+
+            },
+            "requirements": {
+                "processor": "",
+                "memory": "",
+                "graphics": "",
+                "diskspace": "",
+                "arch": "",
+                "miscellaneous": ""
+            },
+            "developer": {
+                "developer": "",
+                "publisher": "",
+                "franchise": "",
+                "license": "",
+                "website": "",
+                "privacyPolicy": "",
+                "email": "",
+                "type": "",
+                "miscellaneous": "",
+                "donation": ""
+            },
+            "social": {
+                "discord": "",
+                "website": "",
+                "telegram": "",
+                "twitter": ""
+            },
+            "download": {
+                "windows": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "macos": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "linux": {
+                    "appimage": "",
+                    "hash": ""
+                }
+            },
+            "lastUpdated": ""
+        },
+        "4": {
+            "id": 4,
+            "packageName": "OpenRA Red Alert",
+            "meta": {
+                "title": "",
+                "shortDescription": "",
+                "longDescription": "",
+                "libraryPresence": {
+                    "production": "",
+                    "experimental": "",
+                    "review": "",
+                    "version": "",
+                    "thumbnail": "",
+                    "priceusd": "",
+                    "discountedPrice": "",
+                    "releaseDate": ""
+                },
+                "language": {
+                    "english": ""
+                },
+                "monetary": {
+                    "p2e": "",
+                    "ingameTransactions": ""
+                },
+                "genre": {
+                    "action": "",
+                    "adventure": "",
+                    "fighting": "",
+                    "simulator": "",
+                    "racing": "",
+                    "metaverse": "",
+                    "openworld": "",
+                    "rpg": "",
+                    "sports": "",
+                    "strategy": "",
+                    "survival": "",
+                    "adult": "",
+                    "gambling": ""
+                },
+                "blockchain": {
+                    "none": "",
+                    "solar": "",
+                    "bsc": "",
+                    "eth": "",
+                    "cosmos": "",
+                    "avalanche": ""
+                },
+                "authentication": {
+                    "solarSDK": "",
+                    "nickname": "",
+                    "thirdParty": "",
+                    "clientWallet": ""
+                },
+                "options": {
+                    "singleplayer": "",
+                    "multiplayer": "",
+                    "localMultiplayer": ""
+                }
+            },
+            "media": {
+                "youtube": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+
+            },
+            "requirements": {
+                "processor": "",
+                "memory": "",
+                "graphics": "",
+                "diskspace": "",
+                "arch": "",
+                "miscellaneous": ""
+            },
+            "developer": {
+                "developer": "",
+                "publisher": "",
+                "franchise": "",
+                "license": "",
+                "website": "",
+                "privacyPolicy": "",
+                "email": "",
+                "type": "",
+                "miscellaneous": "",
+                "donation": ""
+            },
+            "social": {
+                "discord": "",
+                "website": "",
+                "telegram": "",
+                "twitter": ""
+            },
+            "download": {
+                "windows": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "macos": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "linux": {
+                    "appimage": "",
+                    "hash": ""
+                }
+            },
+            "lastUpdated": ""
+        },
+        "5": {
+            "id": 5,
+            "packageName": "OpenRA Tiberian Dawn",
+            "meta": {
+                "title": "",
+                "shortDescription": "",
+                "longDescription": "",
+                "libraryPresence": {
+                    "production": "",
+                    "experimental": "",
+                    "review": "",
+                    "version": "",
+                    "thumbnail": "",
+                    "priceusd": "",
+                    "discountedPrice": "",
+                    "releaseDate": ""
+                },
+                "language": {
+                    "english": ""
+                },
+                "monetary": {
+                    "p2e": "",
+                    "ingameTransactions": ""
+                },
+                "genre": {
+                    "action": "",
+                    "adventure": "",
+                    "fighting": "",
+                    "simulator": "",
+                    "racing": "",
+                    "metaverse": "",
+                    "openworld": "",
+                    "rpg": "",
+                    "sports": "",
+                    "strategy": "",
+                    "survival": "",
+                    "adult": "",
+                    "gambling": ""
+                },
+                "blockchain": {
+                    "none": "",
+                    "solar": "",
+                    "bsc": "",
+                    "eth": "",
+                    "cosmos": "",
+                    "avalanche": ""
+                },
+                "authentication": {
+                    "solarSDK": "",
+                    "nickname": "",
+                    "thirdParty": "",
+                    "clientWallet": ""
+                },
+                "options": {
+                    "singleplayer": "",
+                    "multiplayer": "",
+                    "localMultiplayer": ""
+                }
+            },
+            "media": {
+                "youtube": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+
+            },
+            "requirements": {
+                "processor": "",
+                "memory": "",
+                "graphics": "",
+                "diskspace": "",
+                "arch": "",
+                "miscellaneous": ""
+            },
+            "developer": {
+                "developer": "",
+                "publisher": "",
+                "franchise": "",
+                "license": "",
+                "website": "",
+                "privacyPolicy": "",
+                "email": "",
+                "type": "",
+                "miscellaneous": "",
+                "donation": ""
+            },
+            "social": {
+                "discord": "",
+                "website": "",
+                "telegram": "",
+                "twitter": ""
+            },
+            "download": {
+                "windows": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "macos": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "linux": {
+                    "appimage": "",
+                    "hash": ""
+                }
+            },
+            "lastUpdated": ""
+        },
+        "6": {
+            "id": 6,
+            "packageName": "OpenRA Dune 2000",
+            "meta": {
+                "title": "",
+                "shortDescription": "",
+                "longDescription": "",
+                "libraryPresence": {
+                    "production": "",
+                    "experimental": "",
+                    "review": "",
+                    "version": "",
+                    "thumbnail": "",
+                    "priceusd": "",
+                    "discountedPrice": "",
+                    "releaseDate": ""
+                },
+                "language": {
+                    "english": ""
+                },
+                "monetary": {
+                    "p2e": "",
+                    "ingameTransactions": ""
+                },
+                "genre": {
+                    "action": "",
+                    "adventure": "",
+                    "fighting": "",
+                    "simulator": "",
+                    "racing": "",
+                    "metaverse": "",
+                    "openworld": "",
+                    "rpg": "",
+                    "sports": "",
+                    "strategy": "",
+                    "survival": "",
+                    "adult": "",
+                    "gambling": ""
+                },
+                "blockchain": {
+                    "none": "",
+                    "solar": "",
+                    "bsc": "",
+                    "eth": "",
+                    "cosmos": "",
+                    "avalanche": ""
+                },
+                "authentication": {
+                    "solarSDK": "",
+                    "nickname": "",
+                    "thirdParty": "",
+                    "clientWallet": ""
+                },
+                "options": {
+                    "singleplayer": "",
+                    "multiplayer": "",
+                    "localMultiplayer": ""
+                }
+            },
+            "media": {
+                "youtube": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+
+            },
+            "requirements": {
+                "processor": "",
+                "memory": "",
+                "graphics": "",
+                "diskspace": "",
+                "arch": "",
+                "miscellaneous": ""
+            },
+            "developer": {
+                "developer": "",
+                "publisher": "",
+                "franchise": "",
+                "license": "",
+                "website": "",
+                "privacyPolicy": "",
+                "email": "",
+                "type": "",
+                "miscellaneous": "",
+                "donation": ""
+            },
+            "social": {
+                "discord": "",
+                "website": "",
+                "telegram": "",
+                "twitter": ""
+            },
+            "download": {
+                "windows": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "macos": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "linux": {
+                    "appimage": "",
+                    "hash": ""
+                }
+            },
+            "lastUpdated": ""
+        },
+        "7": {
+            "id": 7,
+            "packageName": "Red Eclipse",
+            "meta": {
+                "title": "",
+                "shortDescription": "",
+                "longDescription": "",
+                "libraryPresence": {
+                    "production": "",
+                    "experimental": "",
+                    "review": "",
+                    "version": "",
+                    "thumbnail": "",
+                    "priceusd": "",
+                    "discountedPrice": "",
+                    "releaseDate": ""
+                },
+                "language": {
+                    "english": ""
+                },
+                "monetary": {
+                    "p2e": "",
+                    "ingameTransactions": ""
+                },
+                "genre": {
+                    "action": "",
+                    "adventure": "",
+                    "fighting": "",
+                    "simulator": "",
+                    "racing": "",
+                    "metaverse": "",
+                    "openworld": "",
+                    "rpg": "",
+                    "sports": "",
+                    "strategy": "",
+                    "survival": "",
+                    "adult": "",
+                    "gambling": ""
+                },
+                "blockchain": {
+                    "none": "",
+                    "solar": "",
+                    "bsc": "",
+                    "eth": "",
+                    "cosmos": "",
+                    "avalanche": ""
+                },
+                "authentication": {
+                    "solarSDK": "",
+                    "nickname": "",
+                    "thirdParty": "",
+                    "clientWallet": ""
+                },
+                "options": {
+                    "singleplayer": "",
+                    "multiplayer": "",
+                    "localMultiplayer": ""
+                }
+            },
+            "media": {
+                "youtube": "",
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+
+            },
+            "requirements": {
+                "processor": "",
+                "memory": "",
+                "graphics": "",
+                "diskspace": "",
+                "arch": "",
+                "miscellaneous": ""
+            },
+            "developer": {
+                "developer": "",
+                "publisher": "",
+                "franchise": "",
+                "license": "",
+                "website": "",
+                "privacyPolicy": "",
+                "email": "",
+                "type": "",
+                "miscellaneous": "",
+                "donation": ""
+            },
+            "social": {
+                "discord": "",
+                "website": "",
+                "telegram": "",
+                "twitter": ""
+            },
+            "download": {
+                "windows": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "macos": {
+                    "zip": "",
+                    "hash": "",
+                    "executable": ""
+                },
+                "linux": {
+                    "appimage": "",
+                    "hash": ""
+                }
+            },
+            "lastUpdated": ""
+        }
+    }
+}
